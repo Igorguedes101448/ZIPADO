@@ -8,7 +8,7 @@ ZIPADO is a project currently under development. This repository serves as the c
 
 ## About
 
-This project is maintained by the development team and aims to provide a comprehensive solution for its intended purpose.
+ZIPADO is a versatile project repository designed for development and collaboration. As the project evolves, specific features and functionality will be documented here to help users understand its capabilities and use cases.
 
 ## Getting Started
 
@@ -20,7 +20,9 @@ To get started with this project:
    cd ZIPADO
    ```
 
-2. Follow the setup instructions as they become available
+2. Explore the repository structure and available files
+
+Additional setup instructions will be provided as the project develops and specific dependencies or requirements are identified.
 
 ## Project Status
 
