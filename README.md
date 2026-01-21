@@ -8,7 +8,7 @@ ZIPADO is a project currently under development. This repository serves as the c
 
 ## About
 
-ZIPADO is a versatile project repository designed for development and collaboration. As the project evolves, specific features and functionality will be documented here to help users understand its capabilities and use cases.
+ZIPADO is a repository established for project development and collaboration. The specific purpose and functionality of this project are being defined as development progresses. This space will serve as the central hub for all project-related materials, documentation, and contributions.
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
 
-Please refer to the LICENSE file for licensing information.
+Licensing information for this project will be added in the future.
 
 ## Contact
 
